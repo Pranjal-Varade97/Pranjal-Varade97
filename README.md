@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pranjal Varade
 
-<!--
-**Pranjal-Varade97/Pranjal-Varade97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | AWS AI Practitioner | React & Node.js Enthusiast**
 
-Here are some ideas to get you started:
+I'm a developer passionate about building scalable, secure, and accessible web applications.  
+Currently focused on JavaScript, React, Node.js, AWS, and frontend performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me
+
+- 🌐 [Website](https://pranjal-website.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranjal-varade/)
+- 📬 pranjalsocial1097@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frontend:** React, React Native, Gatsby, Material UI, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, GraphQL
+- **Database:**  MySQL
+- **DevOps/Cloud:** AWS (Certified AI Practitioner), Terraform (Associate Certified), GitHub Actions
+- **Testing:** Jest, React Testing Library
+- **Other:** Storybook, Jira, Confluence, Git
+
+---
+
+### 📌 Projects
+
+- 💰 [Expense Tracker Dashboard]([https://github.com/Pranjal-Varade97/expense-tracker](https://github.com/Pranjal-Varade97/expense-dashboard-by-pranjal))  
+  A personal finance tracker built using React, custom components, filters, and data persistence.
+
+- 🌐 [Portfolio Website](https://pranjal-website.vercel.app)  
+  Showcasing my skills, projects, and journey as a full stack developer.
+
+---
+
+### 🧠 Currently Learning
+
+- System design and high-scale backend patterns
+- AI integration in full-stack apps
+
+---
+
+### ⚡ Fun Fact
+
+Outside of coding, I love running, fitness, and sharing my journey on Instagram: [@runwithpranjal](https://www.instagram.com/runwithpranjal)
+
+---
